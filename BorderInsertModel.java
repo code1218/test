@@ -40,6 +40,6 @@ public class BorderInsertModel {
 		this.user_ip = user_ip;
 	}
 	
-	
+	public void
 
 }
