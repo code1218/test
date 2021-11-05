@@ -8,6 +8,7 @@ public class BorderInsertModel {
 	private MultipartFile[] file;
 	private String content_textarea;
 	private String user_ip;
+	private String user_addr = null;
 	
 	public String getBorder_title() {
 		return border_title;
